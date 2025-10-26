@@ -27,6 +27,9 @@
 
 <!-- Pin your best repositories here! Replace repo names with your own -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guysa-AMG&repo=MobileStream&theme=radical)](https://github.com/guysa-AMG/MobileStream)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guysa-AMG&repo=peecha_kutcha&theme=radical)](https://github.com/guysa-AMG/peecha_kutcha)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guysa-AMG&repo=nextjs-commerce&theme=radical)](https://github.com/guysa-AMG/nextjs-commerce)
+
 
 ---
 

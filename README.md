@@ -26,7 +26,7 @@
 ## 🚀 Pinned Projects
 
 <!-- Pin your best repositories here! Replace repo names with your own -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guysa-AMG&repo=example-repo&theme=radical)](https://github.com/guysa-AMG/example-repo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guysa-AMG&repo=MobileStream&theme=radical)](https://github.com/guysa-AMG/MobileStream)
 
 ---
 

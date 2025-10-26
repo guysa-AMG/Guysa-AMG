@@ -19,17 +19,18 @@
 ## 📈 GitHub Stats
 
 ![guysa-AMG's GitHub stats](https://github-readme-stats.vercel.app/api?username=guysa-AMG&show_icons=true&theme=radical)
-![guysa-AMG's Streak](https://github-readme-streak-stats.herokuapp.com/?user=guysa-AMG&theme=radical)
+![guysa-AMG's Streak](https://github-readme-streak-stats.herokuapp.com/?user=guysa-AMG&theme=merko)
 
 ---
 
 ## 🚀 Pinned Projects
 
 <!-- Pin your best repositories here! Replace repo names with your own -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guysa-AMG&repo=MobileStream&theme=radical)](https://github.com/guysa-AMG/MobileStream)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guysa-AMG&repo=MobileStream&theme=merko)](https://github.com/guysa-AMG/MobileStream)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guysa-AMG&repo=peecha_kutcha&theme=radical)](https://github.com/guysa-AMG/peecha_kutcha)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guysa-AMG&repo=nextjs-commerce&theme=radical)](https://github.com/guysa-AMG/nextjs-commerce)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guysa-AMG&repo=Web3-Voting-System&theme=ambient_gradient)](https://github.com/guysa-AMG/Web3-Voting-System)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guysa-AMG&repo=neural-cpp&theme=dark)](https://github.com/guysa-AMG/neural-cpp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guysa-AMG&repo=Face_Recognition&theme=gotham)](https://github.com/guysa-AMG/Face_Recognition)
 
 ---
 

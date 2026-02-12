@@ -20,7 +20,6 @@
 
 ##  GitHub Stats
 
-![guysa-AMG's GitHub stats](https://github-readme-stats.vercel.app/api?username=guysa-AMG&show_icons=true&theme=radical)
 ![guysa-AMG's Streak](https://github-readme-streak-stats.herokuapp.com/?user=guysa-AMG&theme=merko)
 
 ---

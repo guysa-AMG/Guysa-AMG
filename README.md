@@ -4,8 +4,10 @@
 ## About Me
 
 -  Passionate about coding, open source, and building cool stuff!
+-  prefer rugby over soccer
+-  love software forensic
 -  Based in Johannesburg
--  Always learning and exploring new tech
+-  Always learning and exploring new tech.
 
 
 
@@ -37,19 +39,8 @@
 ##  Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guysa-ahmed-muhammed)
-[![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
-<!-- Add your other socials here! -->
-
----
-
-## 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=guysa-AMG&theme=radical)
 
 ---
 
 ![](https://komarev.com/ghpvc/?username=guysa-AMG&color=blue)
 
-<!--
-**guysa-AMG/guysa-AMG** is a ✨special✨ repository because its `README.md` (this file) appears on your GitHub profile!
--->

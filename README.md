@@ -46,5 +46,5 @@
 ---
 
 <p align="center"> <br></br>
- <a href="https://github.com/thttp"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=Education+is+the+kindling+of+a+flame,+not+the+filling+of+a+vessel.&author=Albert+Einstein"
+ <a href="https://github.com/thttp"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=Education+is+the+kindling+of+a+flame,+not+the+filling+of+a+vessel.&author=Socrates"
  </p>

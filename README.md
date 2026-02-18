@@ -21,6 +21,7 @@
 ##  GitHub Stats
 
 ![guysa-AMG's Streak](https://github-readme-streak-stats.herokuapp.com/?user=guysa-AMG&theme=gruvbox)
+https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guysa-amg&theme=gruvbox
 
 ---
 

@@ -21,7 +21,7 @@
 ##  GitHub Stats
 
 ![guysa-AMG's Streak](https://github-readme-streak-stats.herokuapp.com/?user=guysa-AMG&theme=gruvbox)
-https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guysa-amg&theme=gruvbox
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guysa-amg&theme=gruvbox"/>
 
 ---
 
@@ -43,4 +43,8 @@ https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?use
 ---
 
 ![](https://komarev.com/ghpvc/?username=guysa-AMG&color=blue)
+---
 
+<p align="center"> <br></br>
+ <a href="https://github.com/thttp"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=Education+is+the+kindling+of+a+flame,+not+the+filling+of+a+vessel.&author=Albert+Einstein"
+ </p>

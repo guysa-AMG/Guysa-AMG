@@ -1,4 +1,6 @@
 # Hi there, I'm Guysa-AMG! 
+![](https://komarev.com/ghpvc/?username=guysa-AMG&color=blue)
+
 [![An image of @guysaamg's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/guysaamg)](https://holopin.io/@guysaamg)
 
 ## About Me
@@ -25,25 +27,6 @@
 
 ---
 
-##  Pinned Projects
-
-<!-- Pin your best repositories here! Replace repo names with your own -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guysa-AMG&repo=MobileStream&theme=merko)](https://github.com/guysa-AMG/MobileStream)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guysa-AMG&repo=peecha_kutcha&theme=radical)](https://github.com/guysa-AMG/peecha_kutcha)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guysa-AMG&repo=Web3-Voting-System&theme=ambient_gradient)](https://github.com/guysa-AMG/Web3-Voting-System)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guysa-AMG&repo=neural-cpp&theme=dark)](https://github.com/guysa-AMG/neural-cpp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guysa-AMG&repo=Face_Recognition&theme=gotham)](https://github.com/guysa-AMG/Face_Recognition)
-
----
-
-##  Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guysa-ahmed-muhammed)
-
----
-
-![](https://komarev.com/ghpvc/?username=guysa-AMG&color=blue)
----
 
 <p align="center"> <br></br>
  <a href="https://github.com/thttp"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=Education+is+the+kindling+of+a+flame,+not+the+filling+of+a+vessel.&author=Socrates"

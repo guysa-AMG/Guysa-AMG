@@ -1,6 +1,6 @@
 # Hi there, I'm Guysa-AMG! 
 ![](https://komarev.com/ghpvc/?username=guysa-AMG&color=blue)
-![Boltzmann](https://i.imgur.com/UkoGtzi.gif)
+![stone](./.renders/stone.svg)
 
 ## About Me
 

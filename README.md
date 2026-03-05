@@ -1,9 +1,10 @@
 # Hi there, I'm Guysa-AMG! 
+
+![rm](./rm.svg)
 ![](https://komarev.com/ghpvc/?username=guysa-AMG&color=blue)
+## About Me(I use Arch btw)
 
-
-## About Me
-
+![arch](./Arch.svg)
 -  Passionate about coding, open source, and building cool stuff!
 -  prefer rugby over soccer
 -  love software forensic

@@ -1,6 +1,6 @@
 # Hi there, I'm Guysa-AMG! 
 ![](https://komarev.com/ghpvc/?username=guysa-AMG&color=blue)
-![DNA](./.renders/dna.svg)
+
 
 ## About Me
 

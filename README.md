@@ -1,7 +1,6 @@
 # Hi there, I'm Guysa-AMG! 
 ![](https://komarev.com/ghpvc/?username=guysa-AMG&color=blue)
-
-[![An image of @guysaamg's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/guysaamg)](https://holopin.io/@guysaamg)
+![Boltzmann](https://i.imgur.com/UkoGtzi.gif)
 
 ## About Me
 
@@ -26,6 +25,7 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guysa-amg&theme=gruvbox"/>
 
 ---
+[![An image of @guysaamg's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/guysaamg)](https://holopin.io/@guysaamg)
 
 
 <p align="center"> <br></br>

@@ -5,9 +5,11 @@
 ## About Me(I use Arch btw)
 
 ![arch](./Arch.svg)
--  Passionate about coding, open source, and building cool stuff!
--  prefer rugby over soccer
--  love software forensic
+-  Passionate about coding, open source projects and building cool stuff!
+-  in sports i prefer rugby over soccer
+-  favourite console games call of duty
+-  favourite movie Pirates of the Caribbean
+-  love software forensic and analytics
 -  Based in Johannesburg
 -  Always learning and exploring new tech.
 

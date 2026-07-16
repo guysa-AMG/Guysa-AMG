@@ -1,7 +1,8 @@
 # Hi there, I'm Guysa-AMG! 
-
-![rm](./rm.svg)
 ![](https://komarev.com/ghpvc/?username=guysa-AMG&color=blue)
+--
+![rm](./rm.svg)
+
 ## About Me(I use Arch btw)
 
 ![arch](./Arch.svg)

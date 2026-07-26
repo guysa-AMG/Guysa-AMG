@@ -1,9 +1,14 @@
 ## Hi there, 
-# I'm Guysa 
-![](https://komarev.com/ghpvc/?username=guysa-AMG&color=green)
---
-![rm](./the_furr_mock6.html)
+<p align="center">
+ <h2>I'm Guysa</h2>
 
+![](https://komarev.com/ghpvc/?username=guysa-AMG&color=green)
+ <object type="image/svg+xml" data="https://githubusercontent.com" width="100%">
+    <!-- Fallback if rendering fails -->
+    <img src="https://raw.githubusercontent.com/guysa-AMG/Guysa-AMG/refs/heads/main/the_furr_mock6.html" />
+  </object>
+
+</p>
 ## About Me(I use Arch btw)
 
 ![arch](./Arch.svg)

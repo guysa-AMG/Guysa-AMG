@@ -2,7 +2,7 @@
 # I'm Guysa 
 ![](https://komarev.com/ghpvc/?username=guysa-AMG&color=green)
 --
-![rm](./rm.svg)
+![rm](./the_furr_mock6.html)
 
 ## About Me(I use Arch btw)
 
